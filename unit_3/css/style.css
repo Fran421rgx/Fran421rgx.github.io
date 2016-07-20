@@ -2,9 +2,13 @@ body
 	{
 	
 	}
+	title
+	{text-align:center;
+		color:#43cecd;
+	}
 
 	h1, p {
-		 color: (67,206,205);
+		 color:#43cecd;
 		}
 		#slogan{
 			font-size:32px;
