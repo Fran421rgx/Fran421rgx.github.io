@@ -4,10 +4,11 @@ body
 	}
 
 	h1, p {
-		 color: white;
+		 color: (67,206,205);
 		}
 		#slogan{
-    color: ;
+			font-size:32px;
+    color:(67,206,205) ;
     padding: 10px 10px;
     text-align: center;
     width: 50%;
