@@ -1,0 +1,16 @@
+body
+	{
+		background-image:"Fran421rgx.github.io/unit_3/images/_group-of-friends.png";
+	}
+
+	h1, p {
+		 color: (255,167,101);
+		}
+		#slogan{
+	 background: #4E41FE;
+    color: #FFF;
+    padding: 4px 4px;
+    text-align: center;
+    width: 50%;
+    margin: 3px;
+}
