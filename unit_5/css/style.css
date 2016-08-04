@@ -1,0 +1,50 @@
+h1
+{text-align:center;
+	font-family:"@import url(https://fonts.googleapis.com/css?family=Lato)";
+	color:#FF0C86;
+	font-size:100px;}
+p {
+	font-family:"@import url(https://fonts.googleapis.com/css?family=Lato)";
+	 color:#43cecd;
+	 font-size:50px;
+	 text-align:center;	}
+		#slogan{
+			font-size:50px;
+    color:#43cecd ;
+    padding: 10px 10px;
+    text-align: center;
+}
+li{color:#FF0C86;
+   font-size:50px;
+   text-align:center;
+}
+header {
+	background-color:#FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	background-color:#E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside {
+	background-color:#FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background-color:#E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color:#FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+div/section {
+	background-color:#FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
