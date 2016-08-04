@@ -1,22 +1,23 @@
-h1
-{text-align:center;
-	font-family:"@import url(https://fonts.googleapis.com/css?family=Lato)";
-	color:#FF0C86;
-	font-size:100px;}
-p {
-	font-family:"@import url(https://fonts.googleapis.com/css?family=Lato)";
-	 color:#43cecd;
-	 font-size:50px;
-	 text-align:center;	}
-		#slogan{
-			font-size:50px;
-    color:#43cecd ;
-    padding: 10px 10px;
-    text-align: center;
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight:400;
+	color:#43cecd;
+	font-size:20px;
+	text-align:center;	
 }
-li{color:#FF0C86;
-   font-size:50px;
-   text-align:center;
+h1 {
+	color:#FF0C86;
+	font-size:2em;
+	font-weight:700;
+}
+#slogan{
+	font-size:2em;
+	margin-bottom:.5em;
+}
+li{
+	color:#FF0C86;
 }
 header {
 	background-color:#FFED74;
@@ -43,8 +44,15 @@ footer {
 	border: 1px black solid;
 	padding: 20px;
 }
-div/section {
+section {
 	background-color:#FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
+}
+#splash {
+	background:url(http://az616578.vo.msecnd.net/files/2016/03/03/635926264209899292-594826024_group-of-friends.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 90vh;
+	padding: 5em 0 0;
 }
