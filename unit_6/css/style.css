@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight:400;
+	color:#43cecd;
+	font-size:20px;
+	text-align:center;	
+}
+h1 {
+	color:#FF0C86;
+	font-size:2em;
+	font-weight:700;
+}
+#slogan{
+	font-size:2em;
+	margin-bottom:.5em;
+}
+li{
+	color:#FF0C86;
+}
+header {
+	background-color:#FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	background-color:#E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside {
+	background-color:#FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background-color:#E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color:#FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+section {
+	background-color:#FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+#splash {
+	background:url(http://az616578.vo.msecnd.net/files/2016/03/03/635926264209899292-594826024_group-of-friends.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 90vh;
+	padding: 5em 0 0;
+}
